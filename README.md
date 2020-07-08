@@ -1,5 +1,5 @@
 # A Comparison of Machine Learning Algorithms Applied to American Legislature Polarization
-Hello, and welcome to the code repository that goes along with our paper [A Comparison of Machine Learning Algorithms Applied to American Legislature Polarization](https://drive.google.com/file/d/1Fm3mqgcE9eBrPPaTISlfVU8SQnGFZ4b0/view?usp=sharing) presented at the IEEE 21st International Conference for Information Reuse and Integration (IRI 2020)!
+Hello, and welcome to the code repository that goes along with our paper [A Comparison of Machine Learning Algorithms Applied to American Legislature Polarization](https://drive.google.com/file/d/1Fm3mqgcE9eBrPPaTISlfVU8SQnGFZ4b0/view?usp=sharing) presented at the IEEE 21st International Conference for Information Reuse and Integration for Data Science (IRI 2020)!
 
 ## Getting started
 The Jupyter notebook directly follows the analytical methods and machine learning models as present in the paper. Weights for the final neural network models are found in the two files with the `.hdf5` extensions. 
