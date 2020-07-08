@@ -4,6 +4,13 @@ Hello, and welcome to the code repository that goes along with our paper [A Comp
 ## Getting started
 The Jupyter notebook chronologically follows the analytical methods and machine learning models presented in the paper. Weights for the final neural network models are found in the two files with the `.hdf5` extensions. The geographical plots of the final models, as well as other graphics, are found in the `/plots` directory.
 
+## Dependencies
+* Keras and TensorFlow 
+* NumPy
+* Pandas 
+* Seaborn 
+* MatplotLib
+
 ## Citation
 If you reuse/modify any of our methods, code, or data for your own research, we kindly ask that you cite the paper following the BibTex structure below:
 
