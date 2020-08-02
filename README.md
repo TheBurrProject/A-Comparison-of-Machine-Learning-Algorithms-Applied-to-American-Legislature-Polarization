@@ -20,5 +20,4 @@ title = {A Comparison of Machine Learning Algorithms Applied to American Legisla
 year = {2020},<br/>
 publisher = {IEEE (in press)},<br/>
 booktitle = {Proceedings of the IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI 2020)},<br/>
-keywords = {political-polarization, machine-learning, data-science},
-}
+keywords = {political-polarization, machine-learning, data-science}}
