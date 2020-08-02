@@ -16,7 +16,6 @@ If you reuse/modify any of our methods, code, or data for your own research, we 
 
 @inproceedings{mersy_2020,
 author = {Mersy, Gabriel and Santore, Vincent and Rand, Isaac and Kleinman, Corrine and Wilson, Grant and Bonsall, Jason and Edwards, Tyler},
-
 title = {A Comparison of Machine Learning Algorithms Applied to American Legislature Polarization},<br/>
 year = {2020},<br/>
 publisher = {IEEE (in press)},<br/>
